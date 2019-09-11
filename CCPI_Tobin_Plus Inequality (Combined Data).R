@@ -1,6 +1,3 @@
-getwd()
-setwd('C:/Users/hunta/OneDrive/Desktop/Dissertation/Data')
-
 install.packages('openxlsx')
 install.packages('tidyverse')
 install.packages('clusterSim')
